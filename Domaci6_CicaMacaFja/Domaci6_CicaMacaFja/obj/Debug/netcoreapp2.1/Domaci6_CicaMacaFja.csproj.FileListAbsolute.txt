@@ -1,0 +1,11 @@
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\obj\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.csprojAssemblyReference.cache
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\obj\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.csproj.CoreCompileInputs.cache
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\obj\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.AssemblyInfoInputs.cache
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\obj\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.AssemblyInfo.cs
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\bin\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.deps.json
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\bin\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.runtimeconfig.json
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\bin\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.runtimeconfig.dev.json
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\bin\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.dll
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\bin\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.pdb
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\obj\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.dll
+D:\Gaga\QA\VS-C#\Domaci1\Domaci6_CicaMacaFja\Domaci6_CicaMacaFja\obj\Debug\netcoreapp2.1\Domaci6_CicaMacaFja.pdb

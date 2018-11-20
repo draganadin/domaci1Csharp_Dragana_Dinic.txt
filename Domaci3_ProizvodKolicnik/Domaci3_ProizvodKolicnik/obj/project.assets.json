@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik.csproj",
+      "projectUniqueName": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik.csproj",
       "projectName": "Domaci3_ProizvodKolicnik",
-      "projectPath": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik.csproj",
+      "projectPath": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik.csproj",
       "packagesPath": "C:\\Users\\donha\\.nuget\\packages\\",
-      "outputPath": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik\\obj\\",
+      "outputPath": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci3_ProizvodKolicnik\\Domaci3_ProizvodKolicnik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

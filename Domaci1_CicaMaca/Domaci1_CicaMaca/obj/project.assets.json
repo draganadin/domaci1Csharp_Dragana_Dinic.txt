@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci1_CicaMaca\\Domaci1_CicaMaca\\Domaci1_CicaMaca.csproj",
+      "projectUniqueName": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci1_CicaMaca\\Domaci1_CicaMaca\\Domaci1_CicaMaca.csproj",
       "projectName": "Domaci1_CicaMaca",
-      "projectPath": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci1_CicaMaca\\Domaci1_CicaMaca\\Domaci1_CicaMaca.csproj",
+      "projectPath": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci1_CicaMaca\\Domaci1_CicaMaca\\Domaci1_CicaMaca.csproj",
       "packagesPath": "C:\\Users\\donha\\.nuget\\packages\\",
-      "outputPath": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci1_CicaMaca\\Domaci1_CicaMaca\\obj\\",
+      "outputPath": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci1_CicaMaca\\Domaci1_CicaMaca\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

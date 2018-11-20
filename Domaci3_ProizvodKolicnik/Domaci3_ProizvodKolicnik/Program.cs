@@ -2,48 +2,55 @@
 
 namespace Domaci3_ProizvodRazlikaKolicnik
 {
-    class Zadatak3
+    class Program
     {
+        public int EvenOdd(int a, int b)
+        {
+            int c;
+            if (a % 2 == 0)
+            {
+                if (b % 2 == 0)
+                {
+                    c = a * b;
+                    Console.WriteLine("Uneli ste dva parna broja. Njihov proizvod iznosi: " + c);
+                }
+                else
+                {
+                    c = a - b;
+                    Console.WriteLine("Uneli ste jedan paran i jedan neparan broj. Njihova razlika iznosi: " + Math.Abs(c));
+                }
+            }
+            else
+            {
+                if (b % 2 == 0)
+                {
+                    c = a - b;
+                    c = Math.Abs(c);
+                    Console.WriteLine("Uneli ste jedan paran i jedan neparan broj. Njihova razlika iznosi: " + c);
+                }
+                else
+                {
+                    c = a / b;
+                    Console.WriteLine("Uneli ste dva neparna broja. Njihov količnik iznosi: " + c);
+                }
+            }
+            return c;
+        }
         static void Main(string[] args)
         {
-            double x, y, z;
             Console.WriteLine("Unesite bilo koja dva realna broja.");
             Console.WriteLine("Ukoliko oba broja budu parna, računaćemo njihov proizvod.");
             Console.WriteLine("Ukoliko oba broja budu neparna, računaćemo količnik.");
             Console.WriteLine("U slučaju da jedan broj bude paran a drugi neparan, biće izračunata njihova razlika.\n");
             Console.Write("Unesite prvi broj:");
-            double n = double.Parse(Console.ReadLine());
-
+            int x = Convert.ToInt16(Console.ReadLine());
             Console.Write("Unesite drugi broj:");
-            double m = double.Parse(Console.ReadLine());
+            int y = Convert.ToInt16(Console.ReadLine());
+            int z;
 
-            if (n % 2 == 0)
-            {
-                if (m % 2 == 0)
-                {
-                    x = n * m;
-                    Console.WriteLine("Uneli ste dva parna broja. Njihov proizvod iznosi: " + x);
-                }
-                else
-                {
-                    y = n - m;
-                    Console.WriteLine("Uneli ste jedan paran i jedan neparan broj. Njihova razlika iznosi: " + Math.Abs(y));
-                }
-            }
-            else
-            {
-                if (m % 2 == 0)
-                {
-                    y = n - m;
-                    Console.WriteLine("Uneli ste jedan paran i jedan neparan broj. Njihova razlika iznosi: " + Math.Abs(y));
-                }
-                else
-                {
-                    z = n / m;
-                    Console.WriteLine("Uneli ste dva neparna broja. Njihov količnik iznosi: " + z);
-                }
-            }         
-            Console.ReadKey();
+            Program n = new Program();
+            z = n.EvenOdd(x, y);
+            Console.ReadLine();
         }
     }
 }

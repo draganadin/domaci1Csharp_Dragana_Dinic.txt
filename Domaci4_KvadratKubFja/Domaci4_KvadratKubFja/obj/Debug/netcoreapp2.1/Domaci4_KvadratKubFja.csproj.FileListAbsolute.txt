@@ -1,0 +1,11 @@
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\bin\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.deps.json
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\bin\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.runtimeconfig.json
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\bin\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.runtimeconfig.dev.json
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\bin\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.dll
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\bin\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.pdb
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\obj\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.csprojAssemblyReference.cache
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\obj\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.csproj.CoreCompileInputs.cache
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\obj\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.AssemblyInfoInputs.cache
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\obj\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.AssemblyInfo.cs
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\obj\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.dll
+D:\Gaga\QA\VS-C#\Domaci1\Domaci4_KvadratKubFja\Domaci4_KvadratKubFja\obj\Debug\netcoreapp2.1\Domaci4_KvadratKubFja.pdb

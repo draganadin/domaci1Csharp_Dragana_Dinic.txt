@@ -2,24 +2,32 @@
 
 namespace Domaci2_KvadratKub
 {
-    class Zadatak2
+    class Program
     {
-        static void Main(string[] args)
+        public int KvadratKub(int a)
         {
-            Console.Write("Unesite bilo koji broj: ");
-            int n = int.Parse(Console.ReadLine());
-
-            if (n % 2 == 0)
+            int b;
+            if (a % 2 == 0)
             {
-                int z = n * n;
-                Console.WriteLine("Kvadratni broj unetog broja je broj " + z);
+                b = a * a;
+                Console.WriteLine("Kvadratni broj unetog broja je broj " + b);
             }
             else
             {
-                int y = n * n * n;
-                Console.WriteLine("Kubni broj unetog broja je broj " + y);
+                b = a * a * a;
+                Console.WriteLine("Kubni broj unetog broja je broj " + b);
             }
-            Console.ReadKey();
+            return b;
+        }
+        static void Main(string[] args)
+        {
+            Console.Write("Unesite neki broj: ");
+            int x = Convert.ToInt16(Console.ReadLine());
+            int rezultat;
+
+            Program n = new Program();
+            rezultat = n.KvadratKub(x);
+            Console.ReadLine();
         }
     }
 }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci2_KvadratKub\\Domaci2_KvadratKub\\Domaci2_KvadratKub.csproj",
+      "projectUniqueName": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci2_KvadratKub\\Domaci2_KvadratKub\\Domaci2_KvadratKub.csproj",
       "projectName": "Domaci2_KvadratKub",
-      "projectPath": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci2_KvadratKub\\Domaci2_KvadratKub\\Domaci2_KvadratKub.csproj",
+      "projectPath": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci2_KvadratKub\\Domaci2_KvadratKub\\Domaci2_KvadratKub.csproj",
       "packagesPath": "C:\\Users\\donha\\.nuget\\packages\\",
-      "outputPath": "D:\\Gaga Smor\\QA\\VS - C#\\Domaci2_KvadratKub\\Domaci2_KvadratKub\\obj\\",
+      "outputPath": "D:\\Gaga\\QA\\VS-C#\\Domaci1\\Domaci2_KvadratKub\\Domaci2_KvadratKub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
