@@ -4,7 +4,7 @@ namespace Domaci4_KvadratKubFja
 {
     class Program
     {
-        public int KvadratKub(int a)
+        public void KvadratKub(int a)
         {
             if (a % 2 == 0)
             {
@@ -16,7 +16,6 @@ namespace Domaci4_KvadratKubFja
                 a = a * a * a;
                 Console.WriteLine("Kubni broj unetog broja je broj " + a);
             }
-            return a;
         }
         static void Main(string[] args)
         {
@@ -24,7 +23,7 @@ namespace Domaci4_KvadratKubFja
             int x = Convert.ToInt16(Console.ReadLine());
 
             Program n = new Program();
-            x = n.KvadratKub(x);
+            n.KvadratKub(x);
             Console.ReadLine();
         }
     }
